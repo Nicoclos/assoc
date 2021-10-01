@@ -1,0 +1,26 @@
+.container{
+    padding: 100px;
+}
+.intro{
+    font-size:1.2em
+
+}
+.navbar-fixed-top {
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    z-index: 1030;
+  }
+  footer{
+
+    position: fixed;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1030;
+   
+  } 
+  .bloc{
+      margin-bottom: 200px;
+  }
